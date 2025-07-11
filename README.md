@@ -1,6 +1,6 @@
 <!-- GiaBaoPham -->
 <a href="#" target="_blank">
-  <img src="giabao.svg" width="1200" alt="giabao" />
+  <img src="giabao_no1.svg" width="1200" alt="giabao" />
 </a>
 <h2 align="center"> 💫 About Me:
 ホチミン市情報通信大学の三年生 💫</h2>
